@@ -1,6 +1,7 @@
 # CSC 506
 # Critical thinking 3
 # Upload to Github
+
 import random
 import time
 
